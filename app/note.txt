@@ -1,0 +1,6 @@
+we name the auth and root folders inside the () parantheses so as to use the "Route Groups" functionality in Next Js
+This functionality helps us to standardize layouts for a group of pages instead of using a single layout for all the pages
+
+errors faced when route groups were not initialized (not named inside the () parantheses):
+     ○ Compiling /_not-found ...
+    ✓ Compiled /_not-found in 680ms (463 modules)
